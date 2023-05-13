@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "760335697126",
+    "project_id": "caht-app-9ecef",
+    "storage_bucket": "caht-app-9ecef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760335697126:android:98b9284b7c6c49688be727",
+        "android_client_info": {
+          "package_name": "com.example.chaatapp_o_r"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760335697126-5nlqma8rm8b63p5oe8g19dhao9ni3i4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJwGOaaoQu8qhRYs2TIVAjKKdkAzJGzo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760335697126-5nlqma8rm8b63p5oe8g19dhao9ni3i4p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "760335697126-mp1ht118s2vigmp3l4oe624hnhifd53n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chaatappOr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
